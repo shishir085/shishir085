@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shishir085](https://github.com/shishir085)
 
-- 💬 Ask me about **HTML & C++**
+- 💬 Ask me about **HTML, C++ and JS**
 
 - 📫 How to reach me **shishirpandey085@gmail.com**
 
