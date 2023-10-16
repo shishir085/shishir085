@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **shishirpandey085@gmail.com**
 
-- 📄 Know about my experiences [https://resume.io/r/vFqhcZRPG](https://resume.io/r/vFqhcZRPG)
+- 📄 Know about my experiences (https://shishirpandey085@gmail.com)
 
 - ⚡ Fun fact **I have travelled across Oceans.**
 
