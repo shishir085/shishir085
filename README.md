@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **DSA in C++** and **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Shishir085](https://github.com/shishir085)
+- 👨‍💻 All of my projects are available at [https://github.com/shishir085](https://github.com/shishir085)
 
 - 💬 Ask me about **HTML, C++ and JS**
 
