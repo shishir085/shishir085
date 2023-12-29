@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Shishir Pandey</h1>
-<h3 align="center">A Passionate Full stack Developer from United Kingdom.</h3>
+<h3 align="center">A Passionate Full stack Developer from Texas, United States.</h3>
 
 - 🔭 I’m currently working on **Water Level Tank Sensor**
 
