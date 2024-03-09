@@ -35,7 +35,7 @@ I'm currently working as a fullstack developer in Nepal, where my journey involv
 ## ✨ Fun Facts 
 
 - One Piece is my favorite anime.
-- As a kid, I wanted to be an Engineer.
+- As a kid, I wanted to be a Formula 1 Engineer.
 - I love using Mac after switching from Boring Windows.
 - Fun fact **I have travelled across Oceans.**
 
