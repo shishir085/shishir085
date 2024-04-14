@@ -3,7 +3,7 @@
   <a href="https://www.shishirpandey085.com.np/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/damiv8olg/image/upload/v1704111823/my_design_portfolio_witmy4.png" alt="Shishir Pandey "></a>
 </p>
 <h1 align="center">Hi 👋, I'm Shishir Pandey</h1>
-<h3 align="center">A Passionate Full stack Developer from Texas, United States.</h3>
+<h3 align="center">A Passionate Full stack Developer from Rupandehi, Nepal.</h3>
 
 - 🖥️ Check out my [website](https://www.shishirpandey085.com.np/) to learn more about me.
 
