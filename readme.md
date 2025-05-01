@@ -15,7 +15,7 @@
 
 
 
-- 🌱 I’m currently learning **Django and Machine Learning**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **shishirpandey085@gmail.com**
 
