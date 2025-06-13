@@ -15,7 +15,7 @@
 
 
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Backend In Django**
 
 - 📫 How to reach me **shishirpandey085@gmail.com**
 
@@ -63,7 +63,7 @@ I'm currently working as a fullstack developer in Nepal, where my journey involv
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/shishirpandey085/"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="--manav-gupta--/" height="30" width="40" /></a>
-<a href="https://kaggle.com/shishirpandey085" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shishirpandey085" height="30" width="40" /></a>
+<!-- <a href="https://kaggle.com/shishirpandey085" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shishirpandey085" height="30" width="40" /></a> -->
 <a href="https://www.instagram.com/shishirpandey_085/?utm_source=qr&igshid=ngexmmi2ytkyzg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shishirpandey_085/?utm_source=qr&igshid=ngexmmi2ytkyzg==" height="30" width="40" /></a>
 </p>
 
